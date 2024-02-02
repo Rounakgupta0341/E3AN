@@ -50,4 +50,3 @@ E3AN, the culmination of our endeavors, not only represents technological ingenu
 but also boasts a dynamic face equipped with a motion sensor. This feature enables the
 robot's face to intuitively respond to the user's presence, creating a more immersive and
 engaging interaction.
-I
